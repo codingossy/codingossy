@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning react JS and learning how to build fun, creative APIs 
+- 🔭 I’m currently working with React JS, Tailwind CSS and using them to build fun, creative APIs 
 
-- 🌱 I’m currently learning **Javascript and React JS**
+- 🌱 I’m currently learning **more of React, ContextAPI, redux, framer motion, Firebase**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects and with other young developers**
+- 👯 I’m looking to collaborate on **Junior Developer roles or Partnership with other young developers**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://codingossy.vercel.app)**
 
