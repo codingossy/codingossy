@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working with React JS, Tailwind CSS and using them to build fun, creative APIs 
+- 🔭 I’m currently working with React JS, Tailwind CSS, AOS, and Framer motion and using them to build fun, creative Web Projects
 
 - 🌱 I’m currently learning **more of React, ContextAPI, redux, framer motion, Firebase**
 
