@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning react JS and learng how to build fun, creative APIs 
+- 🔭 I’m currently learning react JS and learning how to build fun, creative APIs 
 
 - 🌱 I’m currently learning **Javascript and React JS**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects and with other young developers**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://codingossy.netlify.app)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://codingossy.vercel.app)**
 
 - 📫 How to reach me **codingossy@gmail.com**
 
@@ -28,7 +28,7 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+
    
    
     
