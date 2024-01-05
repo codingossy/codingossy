@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I currently work with ReactJs, Nextjs, Vuejs, Nuxt, Prisma ORM, Sanity IO - CMS, MongoDb, Supabase, cockroachDb and Planetscale for mysql, postgres and non relational database solutions to make the web easier and accessible to you 
+- 🔭 I currently work with ReactJs, Nextjs, Vuejs, Nuxt, Prisma ORM, Sanity IO - CMS, MongoDb, Supabase, cockroachDb and Planetscale for mysql, postgres and non relational database solutions to make building fast and scalable web apps and services easier and efficient
 
 - 🌱 I’m currently learning **java and spring boot**
 
