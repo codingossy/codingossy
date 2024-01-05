@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working with React JS, Nextjs, Vuejs, prisma, supabase, mongodb, Nuxtjs, sanity io, planetscale all to make thr web easier and accessible to you 
+- 🔭 I currently work with React JS, Nextjs, Vuejs, Nuxt, prisma, supabase, mongodb, sanity io, planetscale all to make the web easier and accessible to you 
 
 - 🌱 I’m currently learning **java and spring boot **
 
