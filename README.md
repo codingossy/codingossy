@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I currently work with React JS, Nextjs, Vuejs, Nuxt, prisma, supabase, mongodb, sanity io, planetscale all to make the web easier and accessible to you 
+- 🔭 I currently work with ReactJs, Nextjs, Vuejs, Nuxt, Prisma ORM, Sanity IO - CMS, MongoDb, Supabase, cockroachDb and Planetscale for mysql, postgres and non relational database solutions to make the web easier and accessible to you 
 
-- 🌱 I’m currently learning **java and spring boot **
+- 🌱 I’m currently learning **java and spring boot**
 
 - 👯 I’m looking to collaborate on **Junior Developer roles or Partnership with other young developers**
 
